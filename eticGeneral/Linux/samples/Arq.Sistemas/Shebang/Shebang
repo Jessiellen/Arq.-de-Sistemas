@@ -1,0 +1,1 @@
+#!/bin/bash Indica que o script deve ser interpretado pelo Bash (Bourne Again Shell).É uma instrução que diz ao sistema qual interpretador de comandos usar para executar o script.
